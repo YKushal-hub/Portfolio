@@ -55,12 +55,6 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 text-center z-30">
-        <div className="text-xs text-muted uppercase tracking-[0.2em]">SCROLL</div>
-        <div className="mt-2 w-px h-10 bg-stroke relative">
-          <div className="absolute left-1/2 -translate-x-1/2 w-1 h-3 bg-text-primary animate-scroll-down" />
-        </div>
-      </div>
     </section>
   )
 }

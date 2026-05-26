@@ -16,12 +16,12 @@ const experiences = [
   },
   {
     role: 'Control System Engineer',
-    company: 'Sony Spresense | Polyhouse Smart Drying System (Ongoing)',
-    duration: 'Current',
+    company: 'Sony Spresense | Polyhouse Smart Drying System',
+    duration: 'May 2024 – May 2025',
     highlights: [
-      'Developing modular control system to optimize polyhouse drying efficiency by 38%',
-      'Integrating sensors, actuators, and inter-device communication for precise environmental control',
-      'Calibrating control logic to reduce energy consumption by ~45%'
+      'Developed modular control system to optimize polyhouse drying efficiency by 38%',
+      'Integrated sensors, actuators, and inter-device communication for precise environmental control',
+      'Calibrated control logic to reduce energy consumption by ~45%'
     ],
     tech: ['Sony Spresense', 'ESP32', 'Arduino Uno', 'DaisySeed', 'C++', 'Embedded C']
   },
